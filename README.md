@@ -1,2 +1,2 @@
-# auth_system_boilerplate
-Auth system boilerplate
+# auth system boilerplate
+Auth service
